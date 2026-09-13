@@ -2221,6 +2221,7 @@ class TestIndia(CommonCountryTests, TestCase):
         self.assertSubdivPbOptionalHolidayName(name, (f"{year}-10-16" for year in self.full_range))
 
     def test_wangala_festival(self):
+        name = "Wangala Festival"
         dts = (
             "2020-11-13",
             "2021-11-12",
@@ -2229,8 +2230,8 @@ class TestIndia(CommonCountryTests, TestCase):
             "2024-11-08",
             "2025-11-07",
         )
-        self._assertHinduHolidayHelper("Wangala Festival", dts, category=OPTIONAL, subdivs={"AS"})
-        self.assertSubdivMlGovernmentHolidayName("Wangala Festival", dts)
+        self._assertHinduHolidayHelper(name, dts, category=OPTIONAL, subdivs={"AS"})
+        self.assertSubdivMlGovernmentHolidayName(name, dts)
 
     def test_shaheed_veer_narayan_singh_jayanti(self):
         name = "Shaheed Veer Narayan Singh's Shaheedi Diwas"
@@ -2959,7 +2960,7 @@ class TestIndia(CommonCountryTests, TestCase):
             ("2018-01-14", "ઉત્તરાયણ; પોંગલ; મકરસંક્રાંતિ; માઘ બિહુ"),
             ("2018-01-15", "કાનુમા; તિરુવલ્લુવર દિવસ / મટ્ટુ પોંગલ; વાસી ઉત્તરાયણ"),
             ("2018-01-16", "ઉઝાવર થિરુનલ; સંત જોસેફ વાઝ દિવસ"),
-            ("2018-01-17", "Silpi Divas"),
+            ("2018-01-17", "શિલ્પી દિવસ"),
             ("2018-01-20", "ગેંદ સિંહ શહીદી દિવસ"),
             ("2018-01-21", "હેમુ કલાણી શહીદી દિવસ"),
             (
@@ -3173,7 +3174,7 @@ class TestIndia(CommonCountryTests, TestCase):
             ("2018-01-14", "उत्तरायण; पोंगल; मकर संक्रांति; माघ बिहू"),
             ("2018-01-15", "कनुमा; तिरुवल्लुवर दिवस / मट्टू पोंगल; वासी उत्तरायण"),
             ("2018-01-16", "उझावर थिरुनल; संत जोसेफ वाज़ दिवस"),
-            ("2018-01-17", "শিল্পী দিবस"),
+            ("2018-01-17", "शिल्पी दिवस"),
             ("2018-01-20", "गेंद सिंह शहीदी दिवस"),
             ("2018-01-21", "हेमू कालाणी शहीदी दिवस"),
             (

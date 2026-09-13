@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Holidays 0.104\n"
 "Report-Msgid-Bugs-To: l10n@vacanza.dev\n"
 "POT-Creation-Date: 2025-02-28 01:24+0530\n"
-"PO-Revision-Date: 2026-09-06 13:24+0530\n"
+"PO-Revision-Date: 2026-09-13 13:03+0530\n"
 "Last-Translator: Ankush Kapoor <work.ankushkapoor1626@gmail.com>\n"
 "Language-Team: Holidays Localization Team\n"
 "Language: gu\n"
@@ -343,7 +343,7 @@ msgstr "મે દિવસ"
 
 #. Silpi Divas.
 msgid "Silpi Divas"
-msgstr ""
+msgstr "શિલ્પી દિવસ"
 
 #. Gurudev Kalicharan Brahma's Birthday.
 msgid "Gurudev Kalicharan Brahma's Jayanti"
@@ -633,6 +633,70 @@ msgstr "વિશ્વકર્મા પૂજા"
 msgid "Kerala Foundation Day"
 msgstr "કેરળ સ્થાપના દિવસ"
 
+#. Chhatrapati Shivaji Maharaj's Birthday.
+msgid "Chhatrapati Shivaji Maharaj's Jayanti"
+msgstr "છત્રપતિ શિવાજી મહારાજ જયંતી"
+
+#. Maharashtra Day.
+msgid "Maharashtra Day"
+msgstr "મહારાષ્ટ્ર દિવસ"
+
+#. Diwali (Bali Pratipada).
+msgid "Diwali (Bali Pratipada)"
+msgstr "દિવાળી (બલિ પ્રતિપદા)"
+
+#. U Tirot Sing's Death Anniversary.
+msgid "U Tirot Sing's Death Anniversary"
+msgstr "યુ તિરોત સિંહની પુણ્યતિથિ"
+
+#. Seng Kut Snem.
+msgid "Seng Kut Snem"
+msgstr "સેંગ કુટ સ્નેમ"
+
+#. Pa Togan Nengminja Sangma's Death Anniversary.
+msgid "Pa Togan Nengminja Sangma's Death Anniversary"
+msgstr "પા ટોગન નંગમિંજા સંગમાની પુણ્યતિથિ"
+
+#. U Soso Thama's Death Anniversary.
+msgid "U Soso Thama's Death Anniversary"
+msgstr "યુ સોસો થામાની પુણ્યતિથિ"
+
+#. Christmas Festival.
+msgid "Christmas Festival"
+msgstr "ક્રિસમસ પર્વ"
+
+#. U Kiang Nongbah Death Anniversary.
+msgid "U Kiang Nongbah Death Anniversary"
+msgstr "યુ કિયાંગ નૉંગબાહની પુણ્યતિથિ"
+
+#. Maharaja Gambhir Singh's Death Anniversary.
+msgid "Maharaja Gambhir Singh's Death Anniversary"
+msgstr "મહારાજા ગંભીર સિંહની પુણ્યતિથિ"
+
+#. Lui Ngai Ni.
+msgid "Lui Ngai Ni"
+msgstr "લુઈ નગાઈ ની"
+
+#. Khongjom Day.
+msgid "Khongjom Day"
+msgstr "ખોંગજોમ દિવસ"
+
+#. Patriot's Day.
+msgid "Patriot's Day"
+msgstr "દેશભક્ત દિવસ"
+
+#. Mera Chaoren Houba.
+msgid "Mera Chaoren Houba"
+msgstr "મેરા ચાઓરેન હૌબા"
+
+#. Players' Day.
+msgid "Players' Day"
+msgstr "રમતવીરોનો દિવસ"
+
+#. Post Christmas.
+msgid "Post Christmas"
+msgstr "ક્રિસમસ પછીનો દિવસ"
+
 #. Tribal Pride Day.
 msgid "Janjatiya Gaurav Divas"
 msgstr "જનજાતીય ગૌરવ દિવસ"
@@ -672,70 +736,6 @@ msgstr "તુલસીદાસ જયંતિ"
 #. Dol Gyaras.
 msgid "Dol Gyaras"
 msgstr "ડોલ ગ્યારસ"
-
-#. Chhatrapati Shivaji Maharaj's Birthday.
-msgid "Chhatrapati Shivaji Maharaj's Jayanti"
-msgstr "છત્રપતિ શિવાજી મહારાજ જયંતી"
-
-#. Maharashtra Day.
-msgid "Maharashtra Day"
-msgstr "મહારાષ્ટ્ર દિવસ"
-
-#. Diwali (Bali Pratipada).
-msgid "Diwali (Bali Pratipada)"
-msgstr "દિવાળી (બલિ પ્રતિપદા)"
-
-#. Maharaja Gambhir Singh's Death Anniversary.
-msgid "Maharaja Gambhir Singh's Death Anniversary"
-msgstr "મહારાજા ગંભીર સિંહની પુણ્યતિથિ"
-
-#. Lui Ngai Ni.
-msgid "Lui Ngai Ni"
-msgstr "લુઈ નગાઈ ની"
-
-#. Khongjom Day.
-msgid "Khongjom Day"
-msgstr "ખોંગજોમ દિવસ"
-
-#. Patriot's Day.
-msgid "Patriot's Day"
-msgstr "દેશભક્ત દિવસ"
-
-#. Mera Chaoren Houba.
-msgid "Mera Chaoren Houba"
-msgstr "મેરા ચાઓરેન હૌબા"
-
-#. Players' Day.
-msgid "Players' Day"
-msgstr "રમતવીરોનો દિવસ"
-
-#. Post Christmas.
-msgid "Post Christmas"
-msgstr "ક્રિસમસ પછીનો દિવસ"
-
-#. U Tirot Sing's Death Anniversary.
-msgid "U Tirot Sing's Death Anniversary"
-msgstr "યુ તિરોત સિંહની પુણ્યતિથિ"
-
-#. Seng Kut Snem.
-msgid "Seng Kut Snem"
-msgstr "સેંગ કુટ સ્નેમ"
-
-#. Pa Togan Nengminja Sangma's Death Anniversary.
-msgid "Pa Togan Nengminja Sangma's Death Anniversary"
-msgstr "પા ટોગન નંગમિંજા સંગમાની પુણ્યતિથિ"
-
-#. U Soso Thama's Death Anniversary.
-msgid "U Soso Thama's Death Anniversary"
-msgstr "યુ સોસો થામાની પુણ્યતિથિ"
-
-#. Christmas Festival.
-msgid "Christmas Festival"
-msgstr "ક્રિસમસ પર્વ"
-
-#. U Kiang Nongbah Death Anniversary.
-msgid "U Kiang Nongbah Death Anniversary"
-msgstr "યુ કિયાંગ નૉંગબાહની પુણ્યતિથિ"
 
 #. Post New Year.
 msgid "Post New Year"
