@@ -1122,6 +1122,16 @@ class HinduCalendarHolidays(EasternCalendarHolidays):
             name, self._hindu_calendar.vaisakhi_date(self._year)
         )
 
+    def _add_prev_vaisakhadi(self, name: str) -> None:
+        """
+        Add Vaisakhadi.
+
+        Vaisakhadi marks the beginning of the solar month of Vaisakha
+        in the Punjabi solar calendar. It is usually observed on
+        April 15, but falls on April 14 in leap years.
+        """
+        self._add_holiday(name, date(self._year, APR, 13 if isleap(self._year) else 14))
+
     def _add_vaisakhadi(self, name: str) -> None:
         """
         Add Vaisakhadi.
@@ -1131,6 +1141,16 @@ class HinduCalendarHolidays(EasternCalendarHolidays):
         April 15, but falls on April 14 in leap years.
         """
         self._add_holiday(name, date(self._year, APR, 14 if isleap(self._year) else 15))
+
+    def _add_vaisakhadi_day_two(self, name: str) -> None:
+        """
+        Add Vaisakhadi.
+
+        Vaisakhadi marks the beginning of the solar month of Vaisakha
+        in the Punjabi solar calendar. It is usually observed on
+        April 15, but falls on April 14 in leap years.
+        """
+        self._add_holiday(name, date(self._year, APR, 15 if isleap(self._year) else 16))
 
     def _add_varalakshmi_vratam(self, name) -> date | None:
         """

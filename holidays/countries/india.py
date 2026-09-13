@@ -612,7 +612,10 @@ class India(
         self._add_pongal(tr("Magh Bihu"))
 
         # Bahag Bihu.
-        self._add_vaisakhadi(tr("Bahag Bihu"))
+        name = tr("Bahag Bihu")
+        self._add_prev_vaisakhadi(name)
+        self._add_vaisakhadi(name)
+        self._add_vaisakhadi_day_two(name)
 
     def _populate_subdiv_as_optional_holidays(self):
         # Silpi Divas.
